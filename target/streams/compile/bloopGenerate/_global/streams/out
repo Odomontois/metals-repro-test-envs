@@ -1,0 +1,4 @@
+[debug] [repro-envs] Classpath dependencies List()
+[debug] [repro-envs] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'repro-envs' to '/Users/odomontois/Prog/projects/scala/repro-envs/.bloop/repro-envs.json'
+[success] Generated .bloop/repro-envs.json
